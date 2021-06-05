@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: myjavaapp-pod
-        image: karheekadev/raju:9
+        image: karheekadev/kartheeka:3
         ports:
         - containerPort:  8080
           protocol: TCP
